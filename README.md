@@ -1,15 +1,18 @@
-# E-COMERECE-DASHBORD
-An interactive Power BI dashboard analyzing e-commerce sales, order fulfillment, customer segmentation, and payment channel performance across multi-year data.
 # 🛒 E-Commerce Performance & Sales Analytics Dashboard
 
 An interactive and dynamic Power BI analytics dashboard designed to monitor end-to-end sales performance, order fulfillment efficiency, regional distribution, and customer demographics for an e-commerce platform.
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Visual Overview
 
-![E commerce Dashboard.png](https://github.com/umer-farooq-analyst/E-COMERECE-DASHBORD/blob/main/E%20commerce%20Dashboard.png)
+### 📊 Power BI Dashboard
+![E-Commerce Power BI Dashboard](https://raw.githubusercontent.com/umer-farooq-analyst/E-COMERECE-DASHBORD/main/E%20commerce%20Dashboard.png)
 
+---
+
+### 🧬 Data Modeling Schema
+![E-Commerce Power BI Dashboard](https://github.com/umer-farooq-analyst/E-COMERECE-DASHBORD/blob/main/Data%20modeling.png)
 ---
 
 ## 📁 Project File & Dataset
